@@ -15,7 +15,10 @@
      *      - Récupérer la réponse correspondante
      *      - L'afficher au client
      * -------------------------------------------------------------------
-     */
+     */ // Reception de la requête du client
+        // Toutes les données se trouvent dans la variable superglobale $_SERVER.
+
+// Amorçage de l'application (Charger les fichiers de configuration)
 
      echo "Hello";
 
